@@ -1,0 +1,48 @@
+/*Estilos que usare sobre la pagina html*/
+
+body{
+    background-image: url(https://www.todofondos.net/wp-content/uploads/papel-pintado-de-madera-pescado-ideco-arena.-wallpaper-de-madera-768x768.jpg);
+    background-attachment: fixed;
+    min-height: 100vh;
+    text-align: center;
+}
+.parrafoestilo{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button{
+    font-size: 15px;
+    font-weight: lighter;
+    color: black;
+}
+h1{
+    font-family: 'Tilt Prism', cursive;
+    padding: 20px;              /*Relleno*/
+    margin: 10px;               /*Margen*/
+    font-weight: bolder;          /*Fuente peso: Poco menos de negrita*/
+    font-size: 50px;            /*Tamaño de fuente*/
+    color: black;
+    
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin: 10px;               
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid blue;
+    margin: 20px;         
+}
+ul, p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 10px;         
+}
+li{
+    font-weight: bolder;
+}
